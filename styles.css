@@ -1,0 +1,39 @@
+section{
+	color: darkblue;
+	width: 60%;
+	position: relative;
+	left: 20%;
+}
+p{
+	color: black;
+}
+b{
+	color: darkblue;
+}
+img{
+	height: 170px;
+	width: 155px;
+	/*position: relative;
+	left: 76.5%;*/
+
+}
+
+hr{
+	border-top: 1px dotted darkblue;
+}
+.header-details{
+	background-color: darkblue;
+	color: white;
+}
+.self-desc{
+	width: 100%;
+}
+.academic td{
+	width: 500px;
+	color: black;
+	border: 1px solid black;
+}
+th{
+
+	border: 1px solid black;
+}
